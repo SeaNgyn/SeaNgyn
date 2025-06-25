@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeaNgyn
+- 👋 Hi, I’m Nguyen The Anh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Code
 - 💞️ I’m looking to collaborate on ... (I'm a student)
